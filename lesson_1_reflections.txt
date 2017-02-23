@@ -1,0 +1,11 @@
+It reduced the files to only lines that were changed.
+With short lines, it was easy to see what part changed.
+
+It would let me roll back changes that went in an unexpected direction.
+
+--Manual Commit- Pros and Cons
+Pros- Allows me to commit at logical points.
+Cons- Might forget to commit.
+
+--Why do some VCS, like Git, allow saving mult files in one commit?
+Because files might be directly dependent on one another
