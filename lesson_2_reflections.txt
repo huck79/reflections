@@ -3,3 +3,5 @@ Working directory is your local area where you view/adjust code.
 Staging area is where you add finished changed files you want to commit to the repository.
 
 Commit setups suck!!!
+
+Trying this again!
